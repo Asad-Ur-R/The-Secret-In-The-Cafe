@@ -36,7 +36,7 @@ Can you solve the mystery before it’s too late?
 ---
 
 ## 🌐 Play Online
-👉 [Itch.io Link Here]
+👉 [[Itch.io Link Here]](https://asad02.itch.io/the-secret-in-the-cafe)
 
 ## 📂 Repo Contents
 - `index.html` – main launcher
